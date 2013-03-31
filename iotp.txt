@@ -1,0 +1,1116 @@
+			<li>
+				<h3>
+					Malthusianism
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 22 Jun 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the ideas of Thomas Malthus, the Victorian clergyman whose work, 'An Essay on the Principle of Population', forecast that soon the population would outstrip food supply. His philosophy regarding population became known as 'Malthusianism'. But was there any truth in his predictions and what impact did his essay have at the time? Melvyn is joined by Karen O’Brien, Pro-Vice-Chancellor for Education at the University of Birmingham; Mark Philp, Lecturer in Politics at the University of Oxford; and Emma Griffin, Senior Lecturer in History at the University of East Anglia.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20110622-1734b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Cogito Ergo Sum
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Apr 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss one of the most famous statements in philosophy: "Cogito ergo sum" or "I think therefore I am". With Susan James, John Cottingham and Stephen Mulhall.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20110428-1000b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Free Will
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Mar 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Do we have the freedom to control our actions? Melvyn Bragg discusses free will with Simon Blackburn, Helen Beebee and Galen Strawson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20110310-1023b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Aristotle's Poetics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Jan 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the seminal work of literary criticism by Aristotle, his 'Poetics'. Full of advice about how to write and appreciate tragedy and epic poetry, the book had a huge influence on French renaissance drama and beyond. Melvyn is joined by Angie Hobbs, Associate Professor of Philosophy and Senior Fellow in the Public Understanding of Philosophy at the University of Warwick; Nick Lowe is Reader in Classical Literature at Royal Holloway, University of London; and Stephen Halliwell, Professor of Greek at the University of St. Andrews.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20110127-0746c.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Daoism
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 15 Dec 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the ancient religion and philosophy, Daoism. Said to date from the 6th century BC when a wise man called Laozi wrote the 'Scripture of the Way and its Power', the 'Daodejing'; Daoism plays a significant role in Chinese culture in general and is now one of the most influential religions worldwide. Melvyn is joined by Tim Barrett, Professor of East Asian History at SOAS; Martin Palmer, Director of the International Consultancy on Religion, Education and Culture; and Hilde De Weerdt,Fellow and Tutor in Chinese History at Pembroke College, University of Oxford.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101215-1557a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Edmund Burke
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Jun 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the philosopher, politician and writer Edmund Burke. With guests Karen O’Brien, Richard Bourke and John Keane.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20100603-0900b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					William Hazlitt
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Apr 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the life and works of the essayist William Hazlitt. With Jonathan Bate, Anthony Grayling and Uttara Natarajan.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20100408-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Ibn Khaldun
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Feb 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 14th-century Arab philosopher of history Ibn Khaldun. With Hugh Kennedy, Robert Irwin and Robert Hoyland.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20100204-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Frankfurt School
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Jan 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the ideas and influence of the Frankfurt School. Guests include Jonathon Rée, Esther Leslie and Raymond Geuss.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20100114-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mary Wollstonecraft
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 31 Dec 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the life and ideas of Mary Wollstonecraft. With John Mullan, Barbara Taylor and Karen O’Brien.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20091231-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Schopenhauer
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Oct 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the pessimistic philosophy of Arthur Schopenhauer. Guests include A.C. Grayling, Béatrice Han-Pile and Chris Janaway.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20091029-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The School of Athens
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 26 Mar 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Raphael's depiction of Plato and Aristotle. With Angie Hobbs, Jill Kraye and Valery Rees.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20090326-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Thoreau and the American Idyll
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Jan 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the philosopher and naturalist Henry David Thoreau. With Kathy Burk, Stephen Fender and Tim Morris.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20090115-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Consolation of Philosophy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Jan 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the consolation of Philosophy. Guests include AC Grayling, Roger Scruton and Melissa Lane.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20090101-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Aristotle’s Politics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Nov 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Aristotle’s ‘Politics’. With Annabel Brett, Angie Hobbs and Paul Cartledge.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20081106-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Translation Movement
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Oct 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss classical Greek ideas in the Arabic and the Islamic world. Guests include Peter Adamson, Amira Bennison and Peter Pormann.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20081002-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Materialism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Apr 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Materialism in Philosophy. With AC Grayling, Anthony O’Hear and Caroline Warman.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20080424-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Kierkegaard
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Mar 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the rich and radical ideas of the philosopher Soren Kierkegaard. With guests Jonathan Ree, Clare Carlisle and John Lippitt.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20080320-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Social Contract
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Feb 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Social Contract; a key idea in political philosophy. Guests include Susan James, Karen O’Brien and Melissa Lane.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20080207-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Avicenna
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Nov 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Persian Islamic philosopher Avicenna. With Peter Adamson, Nader El-Bizri and Amira Bennison.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20071108-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Guilt
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Nov 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests take a long hard look at the idea of guilt. Guests include Miranda Fricker, Stephen Mulhall and Oliver Davies.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20071101-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Socrates
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Sep 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the iconic Greek philosopher, Socrates. With Angie Hobbs, David Sedley and Paul Millett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20070927-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Common Sense Philosophy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Jun 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss common sense philosophy. Guests include Alexander Broadie, A.C Grayling and Melissa Lane.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20070621-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Spinoza
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 May 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Dutch, Jewish and Christian Philosopher, Baruch Spinoza. With Jonathan Ree, John Cottingham and Sarah Hutton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20070503-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Popper
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Feb 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Anglo-Austrian philosopher Karl Popper. With guests John Worrall, Anthony O’Hear and Nancy Cartwright.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20070208-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Anarchism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Dec 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the political creed of Anarchism. With Peter Marshall, John Keane and Ruth Kinna.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20061207-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Altruism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Nov 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss philosophical and evolutionary arguments over altruism. Guests include Richard Dawkins, Miranda Fricker and John Dupre.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20061123-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Averroes
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Oct 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 12th century Islamic philosopher, Averroes. Guests include Peter Adamson, Anthony Kenny and Amira Bennison.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20061005-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mill
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 May 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The life and ideas of the 19th century political philosopher John Stuart Mill. With guests A C Grayling, Alan Ryan and Janet Radcliffe Richards.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20060518-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Friendship
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Mar 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the concept of friendship; ‘a single soul dwelling in two bodies’. With guests Angie Hobbs, Mark Vernon and John Mullan.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20060302-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Oath
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Jan 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the importance of the oath in the Classical World. Guests include Alan Sommerstein, Paul Cartledge and Mary Beard.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20060105-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Hobbes
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Dec 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the great 17th century philosopher Thomas Hobbes. Guests include Quentin Skinner, David Wootton and Annabel Brett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20051201-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Pragmatism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Nov 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests examine the American philosophy of pragmatism. Guests include AC Grayling, Julian Baggini and Miranda Fricker.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20051117-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Cynicism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Oct 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Cynics, the performance artists of philosophy. Guests include Angie Hobbs, Miriam Griffin and John Moles.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20051020-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Marx
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Jul 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The life and ideas of Karl Marx who changed the world with his Communist Manifesto. With Gareth Stedman-Jones, Francis Wheen and AC Grayling.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20050714-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Beauty
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 May 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the qualities of beauty and the history of aesthetics. Guests include Angie Hobbes, Sue James and Julian Baggini.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20050519-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Stoicism
+				</h3>
+				<p class="pc-episode-date">
+					Fri, 4 Mar 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores Stoicism, the most influential philosophy in the Ancient World. With Jonathan Ree, Angie Hobbs and David Sedley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20050304-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Jung
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Dec 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The extraordinary mind and theories of the psychiatrist Carl Gustav Jung. With Brett Kahr, Andrew Samuels and Ronald Hayman.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20041202-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Rhetoric
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Oct 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discusses rhetoric; supported by Aristotle but reviled by Plato. Guests include Angie Hobbs, Ceri Sullivan and Tom Healy.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20041014-1000b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Han Synthesis
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Oct 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Han Synthesis philosophies of China. Guests include Chris Cullen, Carol Michaelson and Roel Sterckx.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20041014-0900b.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Empiricism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Jun 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the 17th century idea that all knowledge arises from experience. With guests Murray Pittock, Jonathan Ree and Judith Hawley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20040610-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Heroism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 May 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores what defines a hero, and their place in classical society. With Paul Cartledge, AC Grayling and Angie Hobbs.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20040506-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Wittgenstein
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Dec 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The life, work and legacy of the 20th century philosopher Ludwig Wittgenstein. With Ray Monk, Marie McGinn and Barry Smith.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20031204-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Duty
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Nov 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines duty, a concept that has excited philosophers through history. With guests AC Grayling, Angie Hobbs and Annabel Brett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20031113-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Art of War
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Jun 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history and philosophy of warfare throughout the ages. With guests Michael Howard, Angie Hobbs and Jeremy Black.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20030612-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Freedom
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Jul 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers what it is to be free and how freedom became such a powerful value. With John Keane, Annabel Brett and Bernhard Williams.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20020704-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Examined Life
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 May 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg investigates how our preoccupations about how to live have altered over time. Including guests AC Grayling, Janet Radcliffe Richards and Julian Baggini.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20020509-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Virtue
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Feb 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the meaning and purpose of the philosophical concept of virtue. With guests Galen Strawson, Miranda Fricker and Roger Crisp.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20020228-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Happiness
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Jan 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers whether 'happiness' means living a life of pleasure or of virtue. With Simon Blackburn, Angie Hobbs and AC Grayling.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20020124-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Confucius
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Nov 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests examine the chinese philosophy of Confucianism. Guests include Tao Tao Liu, Frances Wood and Tim Barrett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20011101-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Evil
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 May 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the notion of evil in western philosophy. With Jones Erwin, Stephen Mulhall and Margaret Atkins.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20010503-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Philosophy of Love
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Mar 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the western understanding of the Philosophy of Love since Plato. With Roger Scruton, Angie Hobbes and Thomas Docherty .
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20010329-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Humanism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Feb 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history and legacy of classical Humanism, invented by Cicero. With Simon Goldhill, Tony Davies and Lisa Jardine.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20010208-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Nihilism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Nov 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of the philosophy that claims that truths are illusory. Including guests Rob Hopkins, Raymond Tallis and Catherine Belsey.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20001116-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Economic Rights
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Jan 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the relationship between democracy and capitalism. With Amartya Sen and Will Hutton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20000127-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Consciousness
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Nov 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines why ideas about consciousness preoccupy philosophers and scientists. With Ted Hondrich and Roger Penrose.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19991125-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Progress
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Nov 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether mankind has made as much moral as material progress. With Adam Phillips and Anthony O’Hear.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19991118-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Individual
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Oct 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the concept of the individual from the Renaissance to today. With Richard Wollheim and Jonathan Dollimore.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19991021-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Utopia
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Oct 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss why we are as enthralled as ever by the idea of a Utopia. With John Carey and A.C. Grayling.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19991007-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Just War
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Jun 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at where the idea of a just war originated and asks if it can still exist. With John Keane and Niall Ferguson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19990603-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Good and Evil
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Apr 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss how we judge good and evil in modern western civilisation. With Leszek Kolakowski and Galen Strawson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19990401-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Cultural Rights in the 20th Century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Dec 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines what impact globalisation has had on human rights, with Homi Bhabha and John Grey.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_19981210-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>

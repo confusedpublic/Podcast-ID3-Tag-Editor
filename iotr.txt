@@ -1,0 +1,720 @@
+			<li>
+				<h3>
+					Wyclif and the Lollards
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Jun 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the medieval philosopher, John Wyclif, and his later followers, the Lollards. Wyclif disputed the traditional teachings of the Catholic Church and his ideas were condemned as heretical and his supporters persecuted. Dubbed the ‘morning star of the Reformation’ Wyclif was also the first person to translate the Bible fully into English. Melvyn is joined by Sir Anthony Kenny, philosopher and former Master of Balliol College, Oxford; Anne Hudson, Emeritus Professor of Medieval English at the University of Oxford; and Rob Lutton, Lecturer in Medieval History at the University of Nottingham.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20110616-0732b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Islamic Law
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 May 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the origins and early development of Islamic law. With Professor Hugh Kennedy, Professor Robert Gleave and Professor Mona Siddiqui.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20110505-1300c.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Pelagian Controversy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Apr 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses The Pelagian Controversy. With Caroline Humfress, Martin Palmer and John Milbank.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20110421-1000a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Bhagavad Gita
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 31 Mar 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The Bhagavad Gita, a 700-verse section of the Sanskrit epic the Mahabharata, is one of the most revered texts of Hinduism. Written in around 200 BC, it narrates a conversation between Krishna, an incarnation of the deity, and the Pandava prince Arjuna. It has been described as a concise summary of Hindu theology, a short work which offers advice on how to live one's life. The Gita is also a philosophical work of great richness and influence. First translated into English in the 18th century, it was quickly taken up in the West. With: Chakravarthi Ram-Prasad Professor of Comparative Religion and Philosophy at Lancaster University, Julius Lipner, Professor of Hinduism and the Comparative Study of Religion and Fellow of Clare Hall at the University of Cambridge, and Jessica Frazier, Research Fellow at the Oxford Centre for Hindu Studies and Lecturer in Religious Studies at Regent's College, London Producer: Thomas Morris.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20110331-1230b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Maimonides
+				</h3>
+				<p class="pc-episode-date">
+					Tue, 15 Feb 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the life, times and legacy of the great Jewish medieval philsopher, Maimonides. Also known as Rambam, Maimonides was a philosopher, theologian, lawyer and physician whose works are still influential today. Melvyn is joined by John Haldane, Professor of Philosophy at the University of St Andrews; Sarah Stroumsa, Alice and Jack Ormut Professor of Arabic Studies and currently Rector at the Hebrew University of Jerusalem; and Peter Adamson, Professor of Ancient and Medieval Philosophy at King’s College London.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20110215-1233b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Foxe's Book of Martyrs
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Nov 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses one of the most important books of the Reformation, Foxe's 'Book of Martyrs' that recounts the horrific deaths of hundreds of martyrs put to death in the reign of Mary I. Melvyn is joined by Diarmaid MacCulloch, Professor of the History of the Church at Oxford University; Justin Champion, Professor of the History of Early Modern Ideas at Royal Holloway, University of London; and Elizabeth Evenden, Lecturer in Book History at Brunel University.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101118-1022a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					William James's 'The Varieties of Religious Experience'
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 May 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss The Varieties of Religious Experience by William James. With Jonathan Rée, John Haldane and Gwen Griffith-Dickson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20100513-0900b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Calvinism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Feb 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the ideas of John Calvin and their impact. With Diarmaid MacCulloch, Susan Hardman Moore and Justin Champion.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20100225-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					St Thomas Aquinas
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Sep 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss St Thomas Aquinas. With Martin Palmer, John Haldane and Annabel Brett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20090917-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Sunni and Shia Islam
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Jun 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the origins of the split between Sunni and Shi'ite Muslims, with Hugh Kennedy, Amira Bennison and Robert Gleave.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20090625-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					St Paul
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 May 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the influence of St Paul on the early Christian church. With John Haldane, Helen Bond and John Barclay.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20090528-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Miracles
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Sep 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the history of miracles. Guests include Martin Palmer, Justin Champion and Janet Soskice.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20080925-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Nicene Creed
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Dec 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Nicene Creed which established the Divinity of Christ. With Martin Palmer, Andrew Louth and Caroline Humfress.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20071227-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Ockham’s Razor
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 31 May 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the ideas of William Ockham including Ockham's Razor. With Anthony Kenny, Marilyn Adams and Richard Cross.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20070531-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					St Hilda
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Apr 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the 7th century abbess, St Hilda. With guests Sarah Foot, Rosemary Cramp and John Blair.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20070405-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Jesuits
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Jan 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Jesuits, “the school masters of Europe”. With guests Simon Ditchfield, Nigel Aston and Olwen Hufton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20070118-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Hell
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Dec 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history of Hell and its representation in the arts. Guests include Martin Palmer, Neil Macgregor and Margaret Kean.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20061221-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Spanish Inquisition
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Jun 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Spanish Inquisition, defenders of medieval orthodoxy. With guests Alexander Murray, John Edwards and Michael Alpert.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20060622-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Oxford Movement
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Apr 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the 19th century Catholic movement within the Church of England. With guests Simon Skinner, Frances Knight and Sheridan Gilley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20060413-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Heaven
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Dec 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss ideas of heaven and the afterlife. With Martin Palmer, John Carey and Valery Rees.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20051222-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Paganism in the Renaissance
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Jun 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the return of classical pagan thought in the Renaissance. Guests include Tom Healy, Evelyn Welch and Charles Hope.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20050616-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Angels
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Mar 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the heavenly host of Angels. With Valery Rees, Martin Palmer and John Haldane.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20050324-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Venerable Bede
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Nov 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The life and work of the Venerable Bede who revolutionised Christian scholarship. With Michelle Brown, Sarah Foot and Richard Gameson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20041125-0900c.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Zoroastrianism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Nov 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of Zoroastrianism, claimed to be the first monotheistic religion. With guests Vesta Sarkhosh Curtis, Farrokh Vajifdar and Alan Williams.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20041111-0900b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Witchcraft
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Oct 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of witchcraft in Reformation Europe. With guests Alison Rowlands, Lyndal Roper and Malcolm Gaskill.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20041021-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Toleration
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 May 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at the politics behind the rise of religious freedom in England. With guests Sarah Barber, Justin Champion and David Wooton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20040520-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Fall
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Apr 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the concept of original sin and its influence in Christian Europe. With guests Martin Palmer, John Carey and Griselda Pollock.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20040408-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Devil
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Dec 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how the Devil became an established figure in Christianity. With guests Martin Palmer, Alison Rowlands and David Wootton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20031211-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Apocalypse
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Jul 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how a powerful narrative of judgement and retribution evolved. With Martin Palmer, Marina Benjamin and Justin Champion.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20030717-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Holy Grail
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 May 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines why the Holy Grail legend has fascinated writers for centuries. Guests include Juliette Wood, Carolyne Larrington and Jonathan Riley Smith.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20030515-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Redemption
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Mar 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss redemption, crucial for Judeo-Christian thought. Guests include Janet Soskice, Richard Harries and Stephen Mulhall.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20030313-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Lindisfarne Gospels
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Feb 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the manuscripts that united Celtic and Roman cultures in England. With guests Michelle Brown, Clare Lees and Richard Gameson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20030220-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Muslim Spain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Nov 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines Muslim Spain, from Cordoba’s golden age to the fall of Granada. With Tim Winter, Martin Palmer and Mehri Niknam.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20021121-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Soul
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Jun 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of thought on immortality, the self and the afterlife. With guests Richard Sorabji, Martin Palmer and Ruth Padel.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20020606-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Buddha
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Mar 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The life of Siddhartha Gautama and the legacy of his teachings. With Peter Harvey, Kate Crosby and Mahinda Deegalle.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20020314-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Catharism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Jan 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Cathars, a medieval European Christian sect accused of heresy. With guests Euan Cameron, Miri Rubin and Malcolm Barber.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20020117-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Science and Religion
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Jan 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the areas of conflict and agreement between science and religion. With Stephen Jay Gould, John Haldane and Hilary Rose.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20010125-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Age of Doubt
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Mar 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the spread of religious doubt over the last three centuries. With guests A.N. Wilson and Victoria Glendinning.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_20000309-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Prayer
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Dec 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the purpose and effects of prayer. With Russell Stannard and Andrew Samuels.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_19991223-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Fundamentalism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Apr 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests examine the roots and the consequences of religious fundamentalism. With Karen Armstrong and Tariq Ali.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iotr/iotr_19990422-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>

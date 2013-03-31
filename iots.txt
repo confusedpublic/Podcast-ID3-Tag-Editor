@@ -1,0 +1,2754 @@
+			<li>
+				<h3>
+					Origins of Infectious Disease
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 8 Jun 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the origins of infectious disease. History is littered with deadly outbreaks of infection, some of which have come close to wiping out entire populations. Mass movement is a significant development in the spread of disease, as is modern agriculture and our proximity to animals. The last century has seen welcome breakthroughs in controlling and even eradicating some diseases – but could the end of infection be a realistic possibility? Melvyn is joined by Steve Jones, Professor of Genetics at University College London; Sir Roy Anderson, Professor of Infectious Disease Epidemiology at Imperial College, London; and Mark Pallen, Professor of Microbial Genomics at the University of Birmingham.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20110608-1657b.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Neutrino
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Apr 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the neutrino. With Frank Close, Susan Cartwright and David Wark.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20110414-0958b.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Age of the Universe
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Mar 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvin Bragg dicusses the Age of the Universe, with Martin Rees, Carolin Crawford and Carlos Frenk.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20110303-1016b.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Nervous System
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Feb 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Nervous System, the body’s communication network. The discovery of the nervous system is a fascinating story which begins in ancient Greece and is still going on today. Melvyn is joined by Colin Blakemore, Professor of Neuroscience at the University of Oxford; Vivian Nutton, Emeritus Professor of the History of Medicine at University College, London; and Tilli Tansey, Professor of the History of Modern Medical Sciences at Queen Mary, University of London.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20110210-1100b.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Random and Pseudorandom
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Jan 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss random and pseudorandom numbers. Randomness will be familiar to anybody who’s bought a lottery ticket or shuffled a pack of cards. But there’s also a phenomenon known as pseudo-randomness –numbers which look random but aren’t. So why are these numbers useful and how can they be generated? Melvyn is joined by Marcus du Sautoy, Professor of Mathematics at the University of Oxford; Colva Roney-Dougal, Senior Lecturer in Pure Mathematics at the University of St Andrews; and Timothy Gowers, Royal Society Research Professor in Mathematics at the University of Cambridge.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20110113-1055c.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Thomas Edison
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Dec 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the life of the great American inventor, Thomas Edison. Creator of the phonograph and the mass-produced electric lightbulb, not to mention his pivotal role in the development of motion pictures, Edison was a true technological pioneer. Melvyn Bragg is joined by Kathleen Burk, Professor of History at University College, London; Simon Schaffer, Professor of the History of Science and Fellow of Darwin College at the University of Cambridge; and Iwan Morus, Reader in History at the University of Aberystwyth.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101209-1051a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Women and Enlightenment Science
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Nov 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					In this week's In Our Time Melvyn Bragg considers the involvement of women in science during the Enlightenment period and how, despite the obstacles, women made significant contributions in a wide range of scientific discliplines. Melvyn is joined by Patricia Fara, Senior Tutor at Clare College, University of Cambridge; Judith Hawley, Professor of 18th Century Literature at Royal Holloway, University of London; and Karen O’Brien, Professor of English at the University of Warwick.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101104-1023a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Logic
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Oct 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg tackles the philosophy of logic - first mapped out by Aristotle in the 4th century BC; disregarded by Descartes in the 17th century and revived and reworked by Gottlob Frege in the 19th century; logic is at the heart of computer science and is a mathematical as well as a philosophical disclipline. Melvyn is joined by A.C. Grayling, Professor of Philosophy at Birkbeck, University of London; Peter Millican, Gilbert Ryle Fellow in Philosophy at Hertford College at the University of Oxford; and Rosanna Keefe, Senior Lecturer in Philosophy at the University of Sheffield.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101021-1048a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Imaginary Numbers
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Sep 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg grapples with the concept of imaginary numbers. Perplexing digits that underpin the majority of technology we take for granted today, from radios to computers to MRI scans; not to mention quantum mechanics. Melvyn is joined by Marcus du Sautoy, Professor of Mathematics at Oxford University; Ian Stewart, Emeritus Professor of Mathematics at the University of Warwick; and Caroline Series, Professor of Mathematics, also at the University of Warwick.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20100923-1035a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Pliny’s Natural History
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Jul 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss Pliny's Natural History, an enormous reference work which attempted to bring together knowledge on every subject under the sun. With Serafina Cuomo, Aude Doody and Liba Taub.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100708-0900g.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Antarctica
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Jun 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the history of Antarctica, the most southerly of the continents is the bleakest and coldest place on Earth. With Jane Francis, Julian Dowdeswell and David Walton
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100624-0900c.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Cavendish Family in Science
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 May 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the scientific achievements of the Cavendish family. With Simon Schaffer, Patricia Fara and Jim Bennett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100520-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Cool Universe
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 May 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Cool Universe. Guests include Carolin Crawford, Michael Rowan-Robinson and Paul Murdin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100506-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Infant Brain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Mar 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss what new research reveals about the infant brain. With Denis Mareschal, Usha Goswami and Annette Karmiloff-Smith.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100304-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mathematics' Unintended Consequences
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Feb 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the unintended consequences of mathematical discoveries. With Marcus du Sautoy, Colva Roney-Dougal and John Barrow.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100211-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					IOT: The Royal Society and British Science: Episode 4
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Jan 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					As part of the BBC's year of science programming, Melvyn Bragg looks at the history of the oldest scientific learned society of them all: the Royal Society. The horrors of the First World War were a shocking indictment of the power of science. Picking up the thread at this hiatus in scientific optimism, this programme, recorded in the current home of the Royal Society in Carlton House Terrace in London, looks at the more subtle, discreet role the Society played in the 20th century, such as secretly arranging for refugee scientists to flee Germany, co-ordinating international scientific missions during the Cold War and quietly distributing government grant money to fund the brightest young researchers in the land. As ever more important scientific issues face the world and Britain today, the programme asks how well placed the Royal Society is to take an important lead in the future.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100107-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					IOT: The Royal Society and British Science: Episode 3
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 6 Jan 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					As part of the BBC's year of science programming, Melvyn Bragg looks at the history of the oldest scientific learned society of them all: the Royal Society. The 19th century blooms scientifically with numerous alternative, specialist learned societies and associations, all threatening the Royal Society's pre-eminence. Attempts to reform the membership criteria - marking scientific leadership's painful transition from patronage to expertise - are troubled, and organisations such as the British Association for the Advancement of Science (now the BSA) excite and enliven scientific discourse outside of London. Science becomes a realistic career and a path of improvement, and by the time HG Wells writes science fiction at the end of the 19th century, there are sufficient numbers of interested, informed readers to suggest that Edwardian society contained the beginnings of a scientific society.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100106-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					IOT: The Royal Society and British Science: Episode 2
+				</h3>
+				<p class="pc-episode-date">
+					Tue, 5 Jan 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at the history of the oldest scientific learned society of them all: the Royal Society. Programme two begins in the coffee house Isaac Newton and the fellows of the early 18th century frequented. At the Royal Observatory, Greenwich, we learn how Newton's feud with the Astronomer Royal John Flamsteed tested the lines between government-funded research and public access. In the age of exploration, senior fellows accompany naval expeditions, such as Cook's expedition to Tahiti and subsequent discovery of Australia. International relations are fostered between scientists such as Benjamin Franklin, whose house in London serves as live-in lab and de facto American embassy. By the end of the century the President, Sir Joseph Banks, successfully embeds the Royal Society in the imperial bureaucratic hub of the new Somerset House. But while senior fellows concentrated on foreign fields, a more radical science and manufacturing base wrought the Industrial Revolution.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100105-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					IOT: The Royal Society and British Science: Episode 1
+				</h3>
+				<p class="pc-episode-date">
+					Mon, 4 Jan 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					As part of the BBC's year of science programming, Melvyn Bragg looks at the history of the oldest scientific learned society of them all: the Royal Society. Melvyn travels to Wadham College, Oxford, where under the shadow of the English Civil War, the young Christopher Wren and friends experimented in the garden of their inspirational college warden, John Wilkins. Back in London, as Charles II is brought to the throne from exile, the new Society is formally founded one night in Gresham College. When London burns six years later, it is two of the key early Fellows of the Society who are charged with its rebuilding. And, as Melvyn finds out, in the secret observatory in The Monument to the fire, it is science which flavours their plans.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20100104-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Pythagoras
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Dec 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the ideas of Pythagoras and the Pythagoreans. With Ian Stewart, Serafina Cuomo and John O’Connor.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20091210-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Radiation
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Nov 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the discovery of radiation, from radio waves to gamma rays. With Jim Al-Khalili, Frank James and Frank Close.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20091112-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Geological Formation of Britain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Oct 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the geological formation of Britain. With Richard Corfield, Jane Francis and Sanjeev Gupta.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20091022-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Calculus
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Sep 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The dispute between Sir Isaac Newton and Gottfried Leibniz over who invented calculus. With guests Simon Schaffer, Patricia Fara and Jackie Stedall.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090924-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Ediacara Biota
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Jul 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Ediacara Biota. Guests include Richard Corfield, Martin Brasier and Rachel Wood.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090709-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Logical Positivism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Jul 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the radical philosophy of the Vienna Circle. With Barry Smith, Nancy Cartwright and Thomas Uebel.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090702-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Vacuum of Space
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Apr 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Vacuum of Space. Guests include Frank Close, Jocelyn Bell Burnell and Ruth Gregory.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090430-0900b.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Baconian Science
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Apr 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Jacobean thinker Francis Bacon and Baconian Science. Guests include Stephen Pumfrey, Patricia Fara and Rhodri Lewis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090402-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Measurement Problem in Physics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Mar 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the measurement problem in physics. With Basil Hiley, Simon Saunders and Roger Penrose.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090305-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Observatory at Jaipur
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Feb 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the observatory at Jaipur. Guests include Chandrika Kaul, David Arnold and Chris Minkowski.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090219-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Physics of Time
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Dec 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the physics of time. With Jim Al-Khalili, Ian Stewart and Monica Grady.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20081218-0900c.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Heat
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Dec 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history of scientific ideas about Heat. Guests include Simon Schaffer, Hasok Chang and Joanna Haigh.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20081204-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Neuroscience
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Nov 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 18th and 19th century quest for the spark of life. Guests include Patricia Fara, Andrew Mendelsohn and Pietro Corsi.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20081113-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Vitalism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Oct 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 18th and 19th century quest for the spark of life. Guests include Patricia Fara, Andrew Mendelsohn and Pietro Corsi.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20081016-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Godel’s Incompleteness Theorems
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Oct 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the mathematician Kurt Godel and his work. With guests Marcus du Sautoy, Philip Welch and John Barrow.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20081009-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Lysenkoism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Jun 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the destructive career of the Soviet geneticist Trofim Lysenko. With Steve Jones, Robert Service and Catherine Merridale.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080605-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Probability
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 May 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the strange mathematics of probability. Guests include Colva Roney Dougal, Marcus du Sautoy and Ian Stewart.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080529-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Brain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 May 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of cultural, medical, artistic and philosophical ideas about the human brain. With guests Vivian Nutton, Jonathan Sawday and Marina Wallace.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080508-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Laws of Motion
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Apr 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Isaac Newton’s Laws of Motion. With Simon Schaffer, Rob Iliffe and Raymond Flood.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080403-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Lovelace
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Mar 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Victorian ‘enchantress of numbers’ Ada Lovelace. With Patricia Fara, Doron Swade and John Fuegi.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080306-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Multiverse
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Feb 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the Multiverse. Guests include Martin Rees, Bernard Carr and Fay Dowker.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080221-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Plate Tectonics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Jan 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines plate tectonics, a theory that transformed our idea of the earth. With guests Richard Corfield, Joe Cann and Lynn Frostick.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20080124-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Four Humours
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Dec 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the four humours in medical history. With David Wootton, Vivian Nutton and Noga Arikha.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20071220-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Genetic Mutation
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Dec 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses mutation in genetics and evolution. With guests Steve Jones, Linda Partridge and Adrian Woolfson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20071206-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Fibonacci Sequence
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Nov 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the mathematical and cultural mysteries of the Fibonacci Sequence. With Marcus du Sautoy, Jackie Stedall and Ron Knott.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20071129-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Oxygen
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Nov 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the discovery of Oxygen by Joseph Priestley and Antoine Lavoisier. With Simon Schaffer, Jenny Uglow and Hasok Chang.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20071115-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Antimatter
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Oct 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses Antimatter in particle physics and cosmology. With Ruth Gregory, Frank Close and Val Gibson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20071004-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Permian Triassic Boundary
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Jun 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Permian-Triassic boundary in evolutionary history. With guests Richard Corfield, Mike Benton and Jane Francis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070628-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Renaissance Astrology
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Jun 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Renaissance Astrology. With Jonathan Sawday, Peter Forshaw and Lauren Kassell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070614-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Gravitational Waves
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 May 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the physics of Gravitational Waves. Guests include Carolin Crawford, Jim Al-Khalili and Sheila Rowan.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070517-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Symmetry
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Apr 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the idea of symmetry in art and nature. With guests Marcus du Sautoy, Ian Stewart and Fay Dowker.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070419-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Anaesthetics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Mar 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history of anaesthetics. Guests include Stephanie Snow, David Wilkinson and Anne Hardy.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070329-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Microbiology
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Mar 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the history of microbiology, the study of microscopic life. With guests John Dupré, Anne Glover and Andrew Mendelsohn.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070308-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Optics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Mar 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the history of the science of optics. With Simon Schaffer, Jim Bennett and Emily Winterburn.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070301-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Archimedes
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Jan 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Greek mathematician Archimedes and his famous cry of “eureka!” Guests include Jackie Stedall, George Phillips and Serafina Cuomo.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070125-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mars
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Jan 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the planet Mars, a source of endless fascination in human history. With Monica Grady, Colin Pillinger and John Zarnecki.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070111-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Indian Mathematics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Dec 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 5000 year long story of Indian Maths. Guests include George Ghevergese Joseph, Dennis Almeida and Colva Roney-Dougal.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20061214-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Speed of Light
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Nov 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the speed of light, lynchpin of Einstein’s universe. Guests include John Barrow, Iwan Morus and Jocelyn Bell Burnell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20061130-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Poincaré Conjecture
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Nov 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss a puzzle that may explain the shape of the universe. With Marcus du Sautoy, Ian Stewart and June Barrow Green.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20061102-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Humboldt
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Sep 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Prussian naturalist and explorer, Alexander Von Humboldt. With guests Jim Secord, Patricia Fara and Jason Wilson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060928-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Galaxies
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Jun 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the creation and destruction of galaxies. Guests include John Gribbin, Carolin Crawford and Robert Kennicutt.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060629-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Carbon
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Jun 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss carbon, which forms the basis of all organic life. With Harry Kroto, Monica Grady and Ken Teo.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060615-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Heart
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Jun 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history of ideas about the heart. Guests include David Wootton, Jonathan Sawday and Fay Bound Alberti.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060601-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Immunisation
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Apr 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the search for immunisation and its impact on society. Guests include Chris Dye, Sanjoy Bhattacharya and Nadja Durbach.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060420-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Royal Society
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Mar 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of the formation of the Royal Society, the oldest scientific academy. With guests Lisa Jardine, Stephen Pumfrey and Michael Hunter.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060323-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Negative Numbers
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Mar 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss negative numbers, a history of mystery and suspicion. Guests include Ian Stewart, Colva Roney-Dougal and Raymond Flood.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060309-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Human Evolution
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Feb 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the six million year old story of human evolution. With Steve Jones, Fred Spoor and Margaret Clegg.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060216-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Relativism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Jan 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss relativism; a philosophy with no absolute truths. With Barry Smith, Kathleen Lennon and Jonathan Rée.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060119-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Prime Numbers
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Jan 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines prime numbers and their mysterious role in the universe of numbers. With guests Jackie Stedall, Marcus Du Sautoy and Robin Wilson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060112-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Artificial Intelligence
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Dec 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>41 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg investigates artificial intelligence; can a computer imitate the human mind? Guests include Alison Adam, Jon Agar and Igor Aleksander.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20051208-0900a.mp3">Download 19MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Graviton
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Nov 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the search for the Graviton particle in physics. With Jim Al-Khalili, Roger Cashmore and Sheila Rowan.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20051124-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Asteroids
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Nov 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the unique properties of asteroids. Guests include Carolin Crawford, John Zarnecki and Monica Grady.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20051103-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mammals
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Oct 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the rise of the mammals which began 65 million years ago. Guests include Steve Jones, Richard Corfield and Jane Francis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20051013-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Magnetism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Sep 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history and mysterious force of magnetism. Guests include Stephen Pumfrey, John Heilbron and Lisa Jardine.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050929-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The KT Boundary
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Jun 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the KT Boundary and the extinction of the dinosaurs. With Simon Kelley, Mike Benton and Jane Francis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050623-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Renaissance Maths
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Jun 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores Renaissance Mathematics, when maths moved from an art to a science. With Jackie Stedall, Jim Bennett and Robert Kaplan.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050602-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Perception and the Senses
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Apr 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines perception: how the brain reacts to the mass of data crowding it. With guests Richard Gregory, Gemma Calvert and David Moores.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050428-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Dark Energy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Mar 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines recently discovered 'dark energy' and its effect on the universe. With Carolyn Crawford, Roger Penrose and Martin Rees.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050317-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Alchemy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Feb 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Alchemy, the ancient science of transformations. Guests include Stephen Pumfrey, Simon Forshaw and Lauren Kassell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050224-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Cambrian Explosion
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Feb 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Cambrian period, when there was an explosion of life on Earth. With Simon Conway Morris, Richard Corfield and Jane Francis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050217-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Mind Body Problem
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Jan 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the history of thought about the mind/body problem in philosophy. With guests Julian Baggini, Sue James and AC Grayling.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050113-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Second Law of Thermodynamics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Dec 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Second Law of Thermodynamics from steam to the Big Bang. With guests Monica Grady, Peter Atkins and John Gribbin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20041216-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Higgs Boson
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Nov 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of the quest to find the Higgs Boson, also known as the 'God Particle'. With Jim Al-Khalili, David Wark and Roger Cashmore.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20041118-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Electrickery
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Nov 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the dawn of the age of electricity. With guests Patricia Fara, Simon Schaffer and Iwan Morus.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20041104-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Origins of Life
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Sep 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss when and how life on earth originated. Guests include Richard Dawkins, Linda Partridge and Richard Corfield.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040923-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Pi
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Sep 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the history of the longest and most detailed number in nature. With Ian Stewart, Robert Kaplan and Sarah Rees.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040902-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Renaissance Magic
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Jun 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Renaissance obsession with Magic. Guests include Peter Forshaw, Valery Rees and Jonathan Sawday.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040617-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Planets
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 May 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines our knowledge of the planets in both our and other solar systems. With Hugh Jones, Carolyn Crawford and Paul Murdin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040527-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Zero
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 May 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the number between 1 and -1, once denounced as the devil's work. With Ian Stewart, Lisa Jardine and Robert Kaplan.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040513-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Hysteria
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Apr 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss how emotional experiences can become physical symptoms. Guests include Juliet Mitchel, Rachel Bowlby and Brett Kahr.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040422-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Theories of Everything
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Mar 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the 30 year search to solve all the biggest questions in physics. With Brian Greene, Val Gibson and John Barrow.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040325-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Dreams
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Mar 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the function and interpretation of dreams. Guests include VS Ramachandran, Mark Solms and Martin Conway.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040304-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Rutherford
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Feb 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Ernest Rutherford, the father of nuclear science. Guests include Jim Al-Kahlili, Simon Schaffer and Patricia Fara.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040219-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Cryptography
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Jan 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the origins and history of codes. Guests include Simon Singh, Lisa Jardine and Fred Piper.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040129-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Lamarck and Natural Selection
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 24 Dec 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>58 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses Jean-Baptiste Lamarck, the 18th century French precursor to Darwin. With guests Steve Jones, Sandy Knapp and Simon Conway Morris.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20031224-0900a.mp3">Download 27MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Ageing the Earth
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Nov 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the age of the Earth and its division into four great Eons. With guests Hazel Rymer, Richard Corfield and Henry Gee.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20031120-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Infinity
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Oct 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the nature and existence of mathematical infinity. Guests include Ian Stewart, Robert Kaplan and Sarah Rees.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20031023-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Maxwell
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Oct 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The work and legacy of the often overlooked 19th century scientist James Clerk Maxwell. With Simon Schaffer, Joanna Haigh and Peter Harman.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20031002-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Nature
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Jul 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the attempt to define humanity’s part in the natural world. With Roger Scruton, Angie Hobbs and Karen Edwards.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030710-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Vulcanology
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Jul 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the formation and eruption of volcanoes. Guests include Steve Self, Hillary Downes and Bill Muguire.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030703-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Lunar Society
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Jun 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines an 18th century group of pioneering scientists and engineers. With Jenny Uglow, Peter Jones and Simon Schaffer.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030605-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Memory
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 May 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the function and significance of memory. With Martin Conway, Mike Kopelman and Kim Graham.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030529-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Blood
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 May 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss blood, from medical progress to the link to the divine. Guests include Miri Rubin, Jonathan Sawday and Anne Hardy.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030522-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Life of Stars
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Mar 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the life cycle of stars. Guests include Paul Murdin, Janna Levin and Phil Charles.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030327-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Meterology
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Mar 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the fascinating and mystifying science of meteorology. With guests Richard Hamblyn, Liba Taub and Vladimir Jankovic .
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030306-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Chance and Design
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Feb 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the question and theories of a grand design in the universe. With guests Simon Conway-Morris, Sandy Knapp and John Brooke.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030213-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Calendar
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Dec 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the ancient origins of our Gregorian calendar. With Peter Watson, Robert Poole and Kristen Lippencott.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20021219-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Man and Disease
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Dec 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how humans have understood and fought disease throughout history. Guests include Anne Hardy, Chris Dye and David Bradley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20021212-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Imagination
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Nov 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg investigates the creatives forces of the imagination. With guests Susan Stuart, Steven Mithen and Semir Zeki.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20021128-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Human Nature
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Nov 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether our natures are innate or defined by unbringing. With Steven Pinker, John Gray and Janet Radcliffe Richards.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20021107-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Scientist
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Oct 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the origin of the concept and historical role of the scientist. With Patricia Fara, John Gribbin and Hugh Pennington.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20021024-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Drugs
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 May 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the role of narcotics and stimulants in the history of medicine. Including guests Sadie Plant, Mike Jay and Richard Davenport-Hines.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020523-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Chaos Theory
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 May 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how Chaos Theory has affected our understanding of the universe. With Susan Greenfield, Neil Johnson and David Papineau.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020516-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Physics of Reality
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 May 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the attempt to reconcile Quantum Theory and classical physics. With Roger Penrose, Fay Dowker and Tony Sudbery.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020502-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Extra Terrestrials
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Apr 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss our chances of ever discovering life on another planet. Guests include Simon Goodwin, Heather Couper and Ian Stewart.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020404-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Anatomy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Feb 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The 2000 year old history of mankind's quest to understand the human body. With Ruth Richardson, Andrew Cunningham and Harold Ellis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020214-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Universe's Shape
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Feb 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the shape, size and topology of the universe. With Janna Levin, Martin Rees and Julian Barbour.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020207-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Nuclear Physics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Jan 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the 20th century development of nuclear physics as a science. With guests John Gribbin, Christine Sutton and Jim Al-Khalili.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20020110-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Genetics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Dec 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explore the development of the science of genetics. With Richard Dawkins, Linda Partridge and Steve Jones.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20011213-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Oceanography
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Nov 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores what science has revealed, and we still don't know, about the sea. With Simon Schaffer, Tony Rice and Margaret Deacon.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20011122-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Earth's Origins
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Jul 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the origins of the Earth. Guests include Simon Winchester, Cherry Lewis and John Cosgrove.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010705-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Black Holes
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Apr 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Black Holes, the ghosts of massive stars. With Martin Rees, Jocelyn Bell Burnell and Martin Ward.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010412-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Fossils
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Mar 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The significance of fossils in history and the impact of techniques in understanding them. With Diane Edwards, Richard Corfield and Richard Fortey.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010322-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Quantum Gravity
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Feb 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 20th century attempts to understand the Quantum world. With guests Lee Smolin, John Gribbin and Janna Levin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010222-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Imperial Science
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Feb 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether agriculture or trade drove 19th century British imperialism. Including guests Richard Drayton, Ziauddin Sardar and Maria Misra.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010201-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mathematics and Platonism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Jan 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether mathematics is a process of invention or of discovery. With guests Ian Stewart, Margaret Wertheim and John Barrow.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010111-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Evolutionary Psychology
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Nov 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the basis and context for the ideas of Evolutionary Psychology. With Steven Rose, Nicholas Humphrey and Janet Radcliffe Richards.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20001102-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Laws of Nature
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Oct 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers whether what is true in physics is true in all areas of existence. With Nancy Cartwright, Mark Buchanan and Frank Close.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20001019-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Imagination and Consciousness
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Jun 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg investigates how neuroscience can explain the enigmas of consciousness. With Gerald Edelman, Igor Aleksander and Margaret Boden.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000629-0900a.mp3">Download 20MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Chemical Elements
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 May 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores chemistry's ongoing mission to understand irreducible substances. Including Paul Strathern, Mary Archer and John Murrell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000525-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Human Origins
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Apr 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the evolution of the human species. With Lesley Aiello, Robert Foley and Mark Roberts.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000427-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Natural Order
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Apr 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the science of taxonomy; the classification of the natural world. Henry Gee, Colin Tudge and Sandy Knapp.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000406-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Grand Unified Theory
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Feb 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The 20th century pursuit in physics for the ultimate theory of everything. Brian Greene and Martin Rees join Melvyn Bragg.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000224-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Goethe and the Science of the Enlightenment
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Feb 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg assesses the scientific legacy of the 18th century German poet Goethe. With guests Nicholas Boyle and Simon Schaffer.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000210-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Information Technology
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Jan 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the social and economic consequences of the information revolution. With Charles Leadbeater and Ian Angell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000113-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Climate Change
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Jan 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines predictions and solutions for global warming and rising sea levels. Guest speakers include John Houghton and George Monbiot.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000106-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Time
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Dec 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the history of mankind’s attempt to understand the nature of time. With Neil F. Johnson and Lee Smolin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19991230-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Medical Ethics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Dec 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the technological advances and ethics of modern medicine. With Sheila McLean and Barry Jackson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19991216-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Genetic Determinism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Sep 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests explores the part genes play in our personalities. With Steve Jones and Matt Ridley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990923-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Pain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Jul 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the causes and our mechanisms of coping with pain. With Semir Zeki and Patrick Wall.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990722-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Intelligence
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Jul 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the origins, manifestations and possibilities of intelligence with Ken Richardson and Michael Ruse.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990701-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Universe's Origins
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 May 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the history of what we know about the origins of the universe. With Martin Rees and Paul Davies.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990520-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Mathematics
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 May 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the importance of mathematics in relation to other sciences.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990506-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Artificial Intelligence
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Apr 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss whether we are near to achieving the thinking, feeling computer. With Igor Aleksander and John Searle.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990429-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Evolution
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Apr 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the future of gene therapy and advances in evolutionary biology, with Colin Tudge and John Maynard Smith.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990415-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Animal Experiments and Rights
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Mar 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the role of animals in humankind’s search for knowledge. With Colin Blakemore and Linda Birke.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990318-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Space in Religion and Science
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Feb 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at how cyberspace has introduced a new concept of space in our world. With Margaret Wertheim and John Polkinghorne.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990218-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Psychoanalysis and its legacy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Feb 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the relevance of psychoanalysis at the end of the 20th century. With Adam Phillips and Juliet Mitchell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990204-0900a.mp3">Download 14MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Ageing
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Jan 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests look at the ethical, economic and biological implications of living longer. With Tom Kirkwood and Alan Walker.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990128-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Genetic Engineering
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Jan 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at the implications of the developments in genetic engineering, with Bryan Appleyard and Grahame Bulfield.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990114-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Neuroscience in the 20th Century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Dec 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests examine the little we know and what we don’t yet know about the brain. With Vilayanur Ramachandran and Susan Greenfield.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981224-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Brain and Consciousness
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Nov 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss our knowledge of memory and the functioning of the brain. With Steven Rose and Dan Robinson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981119-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Science in the 20th Century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Nov 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how perceptions of science have changed in the 20th century. With Mary Midgely and John Gribbin
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981105-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Science's Revelations
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Oct 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether science has ruined our sense of poetic wonder at the world. With Ian McEwan and Richard Dawkins.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981029-0900a.mp3">Download 13MB <span>(right click & "save target as / link as")</span></a>
+				</p>
+			</li>

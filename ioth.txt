@@ -1,0 +1,2376 @@
+			<li>
+				<h3>
+					The Minoans
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Jul 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the ancient civilisation of the Minoans. The Minoans flourished for around two thousand years, long before Ancient Greek civilisation had begun. The most famous Minoan site is the Palace of Knossos on Crete which was famously excavated by Arthur Evans in 1900 and controversially reconstructed by him. But what do we really know about the Minoans and why did they eventually disappear? Melvyn is joined by John Bennet, Professor of Aegean Archaeology at Sheffield University; Ellen Adams, Lecturer in Classical Art &amp; Archaeology at King’s College London; and Yannis Hamilakis, Professor of Archaeology at the University of Southampton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110707-1038c.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Battle of Stamford Bridge
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Jun 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the Battle of Stamford Bridge. In the first week of 1066 the English king, Edward the Confessor, died. A young nobleman, Harold Godwinson, claimed that Edward had nominated him his successor, and seized the throne. But he was not the only claimant: in France the powerful Duke of Normandy, William, believed that he was the rightful king, and prepared to invade England. As William amassed his forces on the other side of the Channel, however, an army led by the Norwegian king Harald Hardrada invaded from the North Sea. Harold quickly marched north and confronted the Norsemen, whose leaders included his own brother Tostig. The English won an emphatic victory; but barely three weeks later Harold was dead, killed at Hastings, and the Norman Conquest had begun.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110602-1015b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Xenophon
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 26 May 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the life and work of Xenophon. With Paul Cartledge, Edith Hall and Simon Goldhill.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110526-1007c.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Custer's Last Stand
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 May 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the Battle of the Little Bighorn, also known as Custer's Last Stand.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110519-1030b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Octavia Hill
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Apr 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					From the 1850s until her death in 1912, Octavia Hill was an energetic campaigner who did much to improve the lot of impoverished city dwellers. She was a pioneer of social housing who believed there were better and more humane ways of arranging accommodation for the poor than through the state. Aided at first by her friend John Ruskin, the essayist and art critic, she bought houses and let them to the urban dispossessed. Octavia Hill provided an early model of social work, did much to preserve urban open spaces. She was also one of the founders of the National Trust. Yet her vision of social reform, involving volunteers and private enterprise rather than central government, was often at odds with that of her contemporaries. With: Dinah Birch, Professor of English Literature and Pro-Vice Chancellor for Research at Liverpool University; Lawrence Goldman, Fellow in Modern History at St Peter's College, Oxford; and Gillian Darley, Historian and biographer of Octavia Hill
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110407-1030b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Dawn of the Iron Age
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Mar 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					In around 3000 BC European metalworkers started to make tools and weapons out of bronze. A complex trading network evolved to convey this valuable metal and other goods around the continent. But two millennia later, a new skill arrived from the Middle East: iron smelting. This harder, more versatile metal represented a huge technological breakthrough. The arrival of the European Iron Age, in around 1000 BC, was a time of huge social as well as technological change. New civilisations arose, the landscape was transformed, and societies developed new cultures and lifestyles. Whether this was the direct result of the arrival of iron is one of the most intriguing questions in archaeology. With: Sir Barry Cunliffe, Emeritus Professor of European Archaeology at the University of Oxford; Sue Hamilton, Professor of Prehistory at University College London; Timothy Champion, Professor of Archaeology at the University of Southampton Producer: Thomas Morris.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110324-1045b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Taiping Rebellion
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Feb 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Taiping Rebellion, the momentous 19th century Chinese revolt led by a disillusioned young man who imagined himself the brother of Jesus Christ, come to save his Chinese brothers and sisters from the clutches of the Imperial Qing dynasty. Almost fourteen years later with over twenty million people dead, the Taiping Rebellion was quashed. But what did the rebels truly believe in and what did it achieve? Melvyn is joined by Rana Mitter, Professor of the History and Politics of Modern China at the University of Oxford; Frances Wood, Head of the Chinese Section at the British Library; and Julia Lovell, Lecturer in Chinese History at Birkbeck, University of London.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110224-0740b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Battle of Bannockburn
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 2 Feb 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Battle of Bannockburn of 1314. The culmination of a war of independence which had rumbled on for eighteen years, it paved the way for the restoration of full Scottish independence. Melvyn is joined by Matthew Strickland, Professor of Medieval History at the University of Glasgow; Fiona Watson, Honorary Research Fellow in History at the University of Dundee; and Michael Brown, Reader in History at the University of St Andrews.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110202-1728b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Mexican Revolution
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Jan 11
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Mexican Revolution of 1910. The revolution last for the next ten years and included the radical peasants’ revolt of Zapata in the south, the warlord banditry of Villa in the north, and a succession of presidents who often tried to put in place remarkably modern constitutions, but usually failed. But was the revolution ultimately successful and how did it actually change things for the people? Melvyn is joined by Alan Knight, Professor of the History of Latin America at the University of Oxford; Paul Garner, Cowdray Professor of Spanish at the University of Leeds; and Patience Schell, Senior Lecturer in Latin American Cultural Studies at the University of Manchester.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20110120-1114b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Industrial Revolution Part II
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Dec 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					In the second part of this two-part series on The Industrial Revolution, Melvyn Bragg and his guests discuss the consequences of the revolution and how the economy, social structures, housing, education and public health were all affected. Melvyn is joined by Jane Humphries, Professor of Economic History and Fellow of All Souls College, Oxford; Emma Griffin, Senior Lecturer in History at the University of East Anglia; and Lawrence Goldman, Fellow and Tutor in History at St. Peter’s College, Oxford.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20101230-1100c.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Industrial Revolution: Part I
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 22 Dec 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					In the first of two programmes concentrating on the Industrial Revolution, Melvyn Bragg and guests discuss what caused the Industrial Revolution and examine the reasons for why it happened in Britain; as well as highlighting some of the men who invented the machinery which changed the world forever. Melvyn is joined by Jeremy Black, Professor of History at the University of Exeter; Pat Hudson, Professor Emerita of History at Cardiff University; and William Ashworth, Senior Lecturer in History at the University of Liverpool.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20101222-1709b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Cleopatra
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Dec 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the life of the last Egyptian pharaoh, Queen Cleopatra. Famous for her beauty, wit and passionate love affairs with both Julius Caesar and Mark Antony, she is also famous for her death, by her own hand by a poisonous snake bite. Melvyn is joined by Catharine Edwards, Professor of Classics and Ancient History at Birkbeck, University of London; Maria Wyke, Professor of Latin at University College London; and Susan Walker, Keeper of Antiquities at the Ashmolean Museum at the University of Oxford.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101202-1112a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Volga Vikings
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Nov 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg delves into the 8th century and the world of the Viking traders who voyaged as far as Baghdad to swap slaves for silver. So who were these Scandinavians who ended up laying the foundations of Russia? Melvyn is joined by James Montgomery, Professor of Classical Arabic at the University of Cambridge; Neil Price, Professor of Archaeology at the University of Aberdeen; and Elizabeth Rowe, Lecturer in Scandinavian History of the Viking Age at Clare Hall, University of Cambridge.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101111-1108a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Spanish Armada
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Oct 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Spanish Armada, the fleet that came to invade England in 1588 but after a brief battle was resoundly defeated. This tale of religious dispute, shifting political alliance and naval supremacy has entered our folklore – although some historians argue it changed nothing. Melvyn is joined by Diane Purkiss, Fellow and Tutor at Keble College, Oxford; Mia Rodriguez-Salgado, Professor in International History at the London School of Economics; and Nicholas Rodger, Senior Research Fellow at All Souls College at the University of Oxford.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20101007-1214a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Delphic Oracle
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Sep 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and his guests discuss the Delphic Oracle. Between the 8th century BC and the 4th century AD, travellers flocked to Delphi to consult the Delphic Oracle, the most celebrated source of prophesies in ancient Greece. Melvyn is joined by Paul Cartledge, A G Leventis Professor of Greek Culture at Cambridge University; Edith Hall, Professor of Classics and Drama at Royal Holloway, University of London; and Nick Lowe, Reader in Classical Literature at Royal Holloway, University of London.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20100930-1029a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Athelstan
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Jul 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the reign of Athelstan, the first king of all England. With Sarah Foot, John Hines and Richard Gameson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100701-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Neanderthals
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Jun 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the evolution and characteristics of the Neanderthals. Guests include Danielle Schreve, Chris Stringer and Simon Conway Morris.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100617-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Great Wall of China
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Apr 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss The Great Wall of China. With Rana Mitter, Frances Wood and Julia Lovell.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100429-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Zulu Nation's Rise and Fall
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Apr 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the rise and fall of the Zulu Nation. With guests Saul David, Saul Dubow and Shula Marks.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100415-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The City Part Two
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Apr 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history of the city. Guests include Peter Hall, Tristram Hunt and Ricky Burdett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100401-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The City Part One
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Mar 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the rise of the city, from its Bronze Age origins to 1800. With Peter Hall, Julia Merritt and Greg Woolf.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100325-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Boudica
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Mar 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the life and mythologisation of Boudica. Guests include Miranda Aldhouse-Green, Richard Hingley and Juliette Wood.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100311-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Indian Mutiny
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Feb 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Indian Mutiny of 1857 and the rebellion which followed. Guests include Shruti Kapila, Faisal Devji and Chandrika Kaul.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100218-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Glencoe Massacre
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Jan 10
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Glencoe Massacre of 1692. Guests include Murray Pittock, Karin Bowie and Daniel Szechi.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100121-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Samurai
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Dec 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history and myth of the Samurai. Guests include Angus Lockyer, Nicola Liscutin and Gregory Irvine.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091224-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Silk Road
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Dec 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Silk Road, the trade routes which spanned Asia. Guests include Frances Wood, Tim Barrett and Naomi Standen.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091203-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Sparta
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Nov 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Ancient Greek city-state of Sparta. With Paul Cartledge, Angie Hobbs and Edith Hall.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091119-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Siege of Munster
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Nov 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Siege of Munster in 1534-35. Guests include Diarmaid MacCulloch, Charlotte Methuen and Lucy Wooding.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091105-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Death of Elizabeth I
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Oct 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the death of Queen Elizabeth I. With John Guy, Helen Hackett and Clare Jackson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091015-0900a.mp3">Download 19MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Dreyfus Affair
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Oct 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Dreyfus Affair, which tore France apart in the 1890s. With Robert Gildea, Robert Tombs and Ruth Harris.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091008-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Akhenaten
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Oct 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Pharaoh Akhenaten. Guests include Kate Spence, Richard Parkinson and Elizabeth Frood.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20091001-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Augustan Age
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Jun 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Augustan Age in Rome. Guests include Catharine Edwards, Mary Beard and Duncan Kennedy.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090611-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Trial of Charles I
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Jun 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the trial of Charles I. Guests include Justin Champion, Diane Purkiss and David Wootton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090604-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Siege of Vienna
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 May 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 1683 siege of Vienna by the Ottoman Army. With Jeremy Black, Andrew Wheatcroft and Claire Norton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090514-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Magna Carta
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 May 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Magna Carta. With Nicholas Vincent, David Carpenter and Michael Clanchy.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090507-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Building of St Petersburg
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Apr 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the building of St Petersburg. Guests include Simon Dixon, Janet Hartley and Anthony Cross.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090423-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Suffragism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Apr 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss suffragism, the movement for women's voting rights. With Krista Cowman, June Purvis and Julia Bush.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090416-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Boxer Rebellion
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Mar 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Boxer Rebellion in the summer of 1900. With Frances Wood, Rana Mitter and Gary Tiedemann.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090319-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Library of Alexandria
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Mar 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Library of Alexandria. Guests include Simon Goldhill, Matthew Nicholls and Serafina Cuomo.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090312-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Carthage's Destruction
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Feb 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Destruction of Carthage. Guests include Mary Beard, Jo Quinn and Ellen O’Gorman.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090212-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					History of History
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Jan 09
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how the writing of history has changed over the years. Guests include Miri Rubin, John Burrow and Paul Cartledge.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20090122-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Great Reform Act
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Nov 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Great Reform Act of 1832. With Dinah Birch, Michael Bentley and Catherine Hall.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20081127-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Great Fire of London
+				</h3>
+				<p class="pc-episode-date">
+					Tue, 11 Nov 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Great Fire of London and the rebuilding of the city. With Lisa Jardine, Jonathan Sawday and Vanessa Harding.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20081111-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Bolivar
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Oct 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Simon Bolivar, the liberator of South America. Guests include Anthony McFarlane, Catherine Davies and John Fisher.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20081030-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Tacitus and the Decadence of Rome
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Jul 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the life and chronicles of the the Roman historian Tacitus. With guests Catharine Edwards, Maria Wyke and Ellen O’Gorman.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080710-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Arab Conquests
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 26 Jun 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Arab conquests which helped communicate Islam to the world. With guests Hugh Kennedy, Robert Hoyland and Amira Bennison.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080626-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Black Death
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 May 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests examine the Black Death and its effect on medieval society. Guests include Miri Rubin, Paul Binski and Samuel Kline Cohn Jnr.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080522-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Enclosures of the 18th Century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 May 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the enclosure movement that fenced in the British countryside. Guests include Murray Pittock, Rosemary Sweet and Mark Overton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080501-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Norman Yoke
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Apr 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss ‘the Norman Yoke'. With guests Richard Gameson, Sarah Foot and Matthew Strickland.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080410-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Dissolution of the Monasteries
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Mar 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines Henry VIII's policy of the Dissolution of the Monasteries. With Diarmaid MacCulloch, George Bernard and Diane Purkiss.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080327-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Statue of Liberty
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Feb 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Statue of Liberty. Guests include John Keane, Kathleen Burk and Robert Gildea.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080214-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Rudolph II
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 31 Jan 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss Rudolph II and his Renaissance Court in Prague. Guests include Peter Forshaw, Howard Hotson and Adam Mosley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080131-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Charge of the Light Brigade
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Jan 08
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Charge of the Light Brigade. Guests include Saul David, Trudi Tate and Mike Broers.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20080110-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Sassanid Empire
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Dec 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the Sassanian Empire in Persia from the 3rd to the 7th century AD. Guests include Hugh Kennedy, James Howard-Johnston and Vesta Sarkhosh Curtis.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20071213-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Divine Right of Kings
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Oct 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the idea that kingly authority derives from God. With Justin Champion, Tom Healy and Clare Jackson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20071011-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Pilgrim Fathers
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Jul 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses what the Pilgrim Fathers and the Mayflower mean to Americans. With Kathleen Burk, Tim Lockley and Harry Bennett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20070705-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Siege of Orléans
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 May 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses Joan of Arc's role in the 1428 Siege of Orléans. With Malcolm Vale, Anne Curry and Matthew Bennett.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20070524-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Opium Wars
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Apr 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the 19th century Opium Wars between Britain and China. With Yangwen Zheng, Xun Zhou and Lars Laamann.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20070412-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Bismarck
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Mar 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses the original Iron Chancellor, Otto Von Bismarck. With guests Richard Evans, Kathy Lerman and Chris Clark.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20070322-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Genghis Khan
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Feb 07
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses Genghis Khan and the Mongol Empire. With Peter Jackson, Naomi Standen and George Lane.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20070201-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Constantinople Siege and Fall
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 28 Dec 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the 1453 siege of Constantinople which ended the Byzantine Empire. With Judith Herrin, Roger Crowley and Colin Imber.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20061228-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Peasants’ Revolt
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Nov 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the 1381 Peasants’ Revolt, a pivotal moment in England’s history. With guests Alastair Dunn, Caroline Barron and Miri Rubin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20061116-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Needham Question
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Oct 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Needham Question; why Europe, not China made modern technology. With Chris Cullen, Tim Barrett and Frances Wood.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20061019-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Diet of Worms
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 12 Oct 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the events that helped trigger the European Reformation. With Diarmaid MacCulloch, David Bagchi and Charlotte Methuen.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20061012-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Astronomy and Empire
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 May 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the relationship between astronomy and British Imperial expansion. With Simon Schaffer, Allan Chapman and Kristen Lippincott.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20060504-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Great Exhibition of 1851
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Apr 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the exhibition that showcased Victorian Britain's industrial might. With Jeremy Black, Hermione Hobhouse and Clive Emsley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20060427-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Carolingian Renaissance
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Mar 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Emperor Charlemagne and the Carolingian Renaissance. Guests include Julia Smith, Matthew Innes and Mary Garrison.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20060330-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Catherine the Great
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 23 Feb 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the Empress who transformed and modernized Russia. With Simon Dixon, Janet Hartley and Tony Lentin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20060223-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Abbasid Caliphs
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 2 Feb 06
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Abbasid Caliphs, rulers of the Islamic world for 200 years. With guests Hugh Kennedy, Amira Bennison and Robert Irwin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20060202-0900b.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Peterloo Massacre
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Dec 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the 1819 Peterloo Massacre and the brutality of the British state. With Jeremy Black, Clive Emsley and Sarah Richardson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20051215-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Greyfriars and Blackfriars
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 10 Nov 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at the religious orders of the Dominicans and the Franciscans. With Anthony Kenny, Alexander Murray and Henrietta Leyser.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20051110-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Field of the Cloth of Gold
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Oct 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Field of the Cloth of Gold, and Tudor conspicuous consumption. With John Guy, Penny Roberts and Steven Gunn.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20051006-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The French Revolution's Reign of Terror
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 26 May 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the reign of terror during the French Revolution. With guests Mike Broers, Rebecca Spang and Tim Blanning.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20050526-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Archaeology and Imperialism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Apr 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the link between archaeology and imperialism. Guests include Eleanor Robson, Tim Champion and Richard Parkinson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20050414-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Alfred and the Battle of Edington
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 7 Apr 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines King Alfred and the defeat of the Vikings at Battle of Edington. With guests Richard Gameson, Sarah Foot and John Hines.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20050407-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Tsar Alexander II's Assassination
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 6 Jan 05
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the assassination of Tsar Alexander II in 1881. Guests include Orlando Figes, Catriona Kelly and Dominic Lievin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20050106-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Roman Republic
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Dec 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The rise and eventual downfall of the Roman Republic which survived for 500 years. With Greg Woolf, Catherine Steele and Tom Holland.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20041230-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Machiavelli and the Italian City States
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Dec 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the political philosopher Niccolo Machiavelli. With Quentin Skinner, Lisa Jardine and Evelyn Welch .
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20041209-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Agincourt
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Sep 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history and legacy of the English army's defeat of the French at Agincourt in 1415. With guests Anne Curry, Michael Jones and John Watts.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040916-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Washington and the American Revolution
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 24 Jun 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the first President of the US and what drove him to revolution. With guests Carol Berkin, Simon Middleton and Colin Bonwick.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040624-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Babylon
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Jun 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the truth behind the empire of Babylon. Guests include Andrew George,Eleanor Robson and Irving Finkle.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040603-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Tea
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Apr 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss tea, the first truly global commodity. Guests include Amanda Vickery, Huw Bowen and Jim Walvin.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040429-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					China's Warring States Period
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Apr 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the astonishing&nbsp;productivity of the Chinese Golden Age. With Carole Michaelson, Chris Cullen and Vivienne Lo.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040401-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Mughal Empire
+				</h3>
+				<p class="pc-episode-date">
+					Wed, 25 Feb 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests examine how much the British Raj owed to the Mughal Emperors. Guests include Sanjay Subrahmanyam, Chandrika Kaul and Susan Stronge.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040225-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Thermopylae
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Feb 04
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Battle of Thermopylae, a defining clash between East and West. With Simon Goldhill, Edith Hall and Tom Holland.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20040205-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Alphabet
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Dec 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg investigates how sounds turned into signs and signs became the alphabet. With guests Rosalind Thomas, Eleanor Robson and Alan Millard.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20031218-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					St. Bartholomew’s Day Massacre
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Nov 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the infamous St Bartholomew’s Day Massacre in 1572. Guests include Diarmaid MacCulloch, Penny Roberts and Mark Greengrass.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20031127-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Schism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Oct 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines events surrounding the medieval division of the Christian Church. With Henrietta Leyser, Norman Housley and Jonathan Sheppard.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20031016-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The East India Company
+				</h3>
+				<p class="pc-episode-date">
+					Mon, 23 Jun 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of the private trading company that helped forge the British Empire. With guests Huw Bowen, Linda Colley and Maria Misra.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20030623-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Aristocracy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Jun 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the origins, power and eventual decline of the British aristocracy. With Rosemary Sweet, Felipe Fernandez Armesto and David Cannadine.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20030619-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Jacobite Rebellion
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 May 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the Stuart dynasty's final attempt to reclaim the throne of England. With guests Alan Macinnes, Murray Pittock and Stana Nenadic.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20030508-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Roman Britain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 May 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the 400 year history of the Romans in Britain. With Catherine Edwards, Greg Woolf and Mary Beard.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20030501-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Spanish Civil War
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Apr 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the causes, events and repercussions of the Spanish Civil War. With Paul Preston, Mary Vincent and Helen Graham.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20030403-0900a.mp3">Download 19MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Aztecs
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 27 Feb 03
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the creation, power and legacy of the Aztec Empire. With Alan Knight, Adrian Locke and Elizabeth Graham.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20030227-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Enlightenment in Scotland
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Dec 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the emergence and impact of the Scottish Enlightenment. With guests Alexander Broadie, Karen O’Brien and Tom Devine.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20021205-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Architecture and Power
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 31 Oct 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the ideas architecture expresses about our past and identity. With guests Adrian Tinniswood, Gillian Darley and Gavin Stamp.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20021031-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Slavery and Empire
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Oct 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss slavery and empire; two themes that run right through this country’s history. With Linda Colley, Catherine Hall and Felipe Fernandez Armesto.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20021017-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Heritage
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Jul 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>42 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the relationship between heritage culture and the study of history. Guests include David Cannadine, Miri Rubin and Peter Mandler.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20020718-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Psychoanalysis and Democracy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Jul 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the impact of politics on psychoanalysis. With Adam Phillips, Sally Alexander and Malcolm Bowie.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20020711-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The American West
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Jun 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores the myths and harsh reality of the 19th century American pioneers. With guests Frank McLynn, Christopher Frayling and Jenni Calder.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20020613-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Bohemia
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Apr 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The history of the ancient kingdom and its religious, national and ethnic ideologies. With Norman Davies, Robert Pynsent and Karin Friedrich.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20020411-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Celts
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 21 Feb 02
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines what we really know about the Celts of pre-Roman Britain. With Barry Cunliffe, Alisdair Moffat and Miranda Aldhouse-Green.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20020221-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Rome and European Civilization
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 20 Dec 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests assess the role that Rome has played in European civilization. Guests include Mary Beard, Catherine Edwards and Greg Woolf.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20011220-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Third Crusade
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 29 Nov 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the highs and lows of the Third Crusade. Guests include Jonathan Riley Smith, Carole Hillenbrand and Tariq Ali.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20011129-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The British Empire
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Nov 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the ethos and legacy of the British Empire. With Peter Cains, Catherine Hall and Maria Misra.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20011108-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Napoleon and Wellington
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 25 Oct 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The comparative histories of two titans of 19th century history. Including guests Mike Broers, Andrew Roberts and Belinda Beaton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20011025-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Democracy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Oct 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the origins of the most cherished form of government in the world. With guests Melissa Lane, Tim Winter and David Wooton.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20011018-0900b.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Byzantium
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Jul 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The culture, history and legacy of the eastern Byzantine Empire. With John Julius Norwich, Charlotte Roueché and Liz James.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010719-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The French Revolution's Legacy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Jun 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The impact and legacy of the French Revolution on European culture and politics. With Stephan Collini, Andrew Roberts and Anne Janowitz.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010614-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Glorious Revolution
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 19 Apr 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers whether the events of 1688 were really glorious or revolutionary. Including guests Rosemary Sweet, John Spur and Scott Mandelbrote.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010419-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Roman Empire's Collapse in the 5th century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Apr 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The causes and events of the fall of the Roman Empire in the 5th century. With guests Richard Alaston, Charlotte Roueché and David Womersely.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010405-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Money
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 1 Mar 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether economic factors really are behind all historical events. With Niall Ferguson, Richard Evans and Jane Humphries.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010301-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Restoration
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Feb 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at the reign of Charles II and the consequences of the Restoration. With Richard Ollard, Mark Goldie and Clare Jackson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010215-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Enlightenment in Britain
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 Jan 01
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the role of British thinkers in the 18th century Enlightenment. With Linda Colley, Roy Porter and Jeremy Black.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010118-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Tudor State
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 26 Oct 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at the re-shaping of England as a modern state by the Tudor dynasty. With John Guy, Christopher Haigh and Christine Carpenter.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20001026-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Hitler in History
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 5 Oct 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>43 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines Adolf Hitler and Nazi Germany though historiographical theories. With guests Ian Kershaw, Niall Ferguson and Mary Fulbrook.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20001005-0900a.mp3">Download 20MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Wars of the Roses
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 18 May 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					The 15th century wars of the royal Houses of Lancaster and York. With guests Helen Castor, Colin Richmond and Steven Gunn.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20000518-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					New Wars
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 13 Apr 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether we are in a new era in the history of modern warfare. With guests Michael Howard, Michael Rose and Mary Kaldor.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20000413-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					History and Understanding the Past
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 30 Mar 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines whether we can ever predict the future by understanding the past. With Eric Hobsbawm and Richard Evans.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20000330-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Lenin
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 16 Mar 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg investigates what drove the Soviet leader Lenin, and enabled his successes. With Robert Service and Vitali Vitaliev.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20000316-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Republicanism
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Feb 00
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines how English republicanism has developed from Cromwell to today. With Andrew Roberts and Sarah Barber.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20000203-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Childhood
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 9 Dec 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg looks at how perceptions of childhood have changed over the last 100 years. With Theodore Zeldin and Christina Hardiment.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19991209-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Education
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 4 Nov 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the history and the modern purpose of education. With Ted Wragg and Mary Warnock.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19991104-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Atrocity in the 20th Century
+				</h3>
+				<p class="pc-episode-date">
+					Sat, 23 Oct 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg examines the widespread and chilling inhumanity of the 20th century with Jonathan Glover and Gwen Adshead.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19991023-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Nation State
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 14 Oct 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss whether it is appropriate to think of the UK as a nation. With Norman Davies and Andrew Marr.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19991014-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Africa
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 8 Jul 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests discuss the roots of Africa's current political and social crises. With Henry Louis Gates Jr and Anthony Sampson.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19990708-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The Great Disruption
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 17 Jun 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg and guests look at the 20th century shift from industrial to information society. With Francis Fukuyama and Amos Oz.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19990617-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					History as Science
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 11 Mar 99
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers the importance of geography and ecology in shaping world history. With Jared Diamond and Richard Evans.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19990311-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					The British Empire's Legacy
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 31 Dec 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers the impact of Britain’s colonial past on its current identity. With Catherine Hall and Linda Colley.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19981231-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					History's relevance in the 20th century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 3 Dec 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg considers the relevance of the study of history in the 20th century, with Simon Schama and Antonia Fraser.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19981203-0900a.mp3">Download 14MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					Politics in the 20th Century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 22 Oct 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>29 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg discusses politics and morality with Gore Vidal and Alan Clarke.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19981022-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
+			<li>
+				<h3>
+					War in the 20th Century
+				</h3>
+				<p class="pc-episode-date">
+					Thu, 15 Oct 98
+				</p>
+				<p class="pc-episode-duration">
+					Duration:<br>
+					<strong>28 mins</strong> <!-- if availabilty infinite or season, nil -->
+				</p>
+				<p class="pc-episode-description">
+					Melvyn Bragg explores ideas that have influenced 20th century human rights and warfare. With Michael Howard and Michael Ignatieff.
+				</p>
+				<p class="pc-episode-cta">
+					<a href="http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_19981015-0900a.mp3">Download 13MB <span>(right click &amp; "save target as / link as")</span></a>
+				</p>
+			</li>
